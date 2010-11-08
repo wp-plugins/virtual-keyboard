@@ -1,12 +1,13 @@
 <?php
 /*
 Plugin Name: Virtual Keyboard
-Version: 1.0
-Description: Adds virtual keyboard to all text inputs using (greywyvern) virutal keyboard interface
-see phpaid for a demo of this nice way to give your customers a way to click.
-Author: PHP AID
-Author URI:http://phpaid.org/
 Plugin URI: http://phpaid.org/virtual-keyboard
+Version: 1.2
+Author: PHP AID
+Description: Adds virtual keyboard to all text inputs using virutal keyboard interface
+see http://phpaid.org for a demo of this nice way to give your customers a way to click.
+Author URI:http://phpaid.org/
+
 Text Domain: virtualkeyboard
 */
 $keyboard_image = 'http://phpaid.org/html/wp-content/plugins/virtualkeyboard/keyboard.png';

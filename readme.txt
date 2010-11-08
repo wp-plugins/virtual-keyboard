@@ -1,9 +1,9 @@
 Contributors: phpaid, grx3 
 Donate link: http://phpaid.org/
 
-For all text inputs on the pages you will get a keyboard so you can click instead of using the keyboard.   
+For all text inputs on the pages you will get a keyboard so you can click instead of using the keyboard.
 
-This was built using javascript from greywyvern and I added all the nessacary compontents to work
+This was built using javascript from and I added all the nessacary compontents to work
 with any wordpress installation.
 
 == Installation ==
@@ -23,8 +23,8 @@ Now browse, the javascript on the client-side takes care of the rest attaching  
 
 Not in the version, but possibly soon.
 
-
 == Changelog ==
+
 
 = 1.0 =
 * First Release
